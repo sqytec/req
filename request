@@ -1,0 +1,17 @@
+POST /cifServlet HTTP/1.1(CRLF)          ------URI协议版本
+Host:192.168.0.1:8080(CRLF)            
+Connection:close(CRLF)
+Content-Type:text/plain (CRLF)
+Content-Length:10000000(CRLF)
+(CRLF)
+请求报文正文：作业条格式内容（其中前8位为作业条长度）
+
+00000481120205LGMBKPIBU805                                                         
+*CLIET                   
+20100305182030          SUC0000                                                                     
+02KPIBPHDRX 0001000150KPIBP805X
+000100008630858400068910258400025320100305150330ccms.805.001.01    
+MSGID308201003050001REFID308201003050001UY         N                                       
+30858400068920100305CMBWKEID00000012010-03-12T17:30:30308584000689001100000001IBPSOT00
+
+
