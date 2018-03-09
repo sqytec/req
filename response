@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK(CRLF)
+Content-Type:text/plain;charset=GBK (CRLF)
+Content-Length: 16(CRLF)
+Date: Fri, 17 Feb 2012 06:49:07 GMT (CRLF)
+Server: WebSphere Application Server/8.0 (CRLF)
+(CRLF)
+返回报文正文：作业条格式内容（其中前8位为作业条长度）
+
